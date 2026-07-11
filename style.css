@@ -422,7 +422,6 @@ body {
 .testimonial-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  /* grid-gap: 2rem; */
   gap: 2rem;
 }
 
